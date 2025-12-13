@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Ty Burningham
+  email: tybret7@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/585342589_1522106429003549_5357391500697292563_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=cSdix0eaTT4Q7kNvwGCII28&_nc_oc=AdlR3mXORBptI0y5iSrjrPFYiRYusfDZ3nKwvv2mgrOt9LYkCu4k2zzJbDXxWl5AzxE&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=CgJiZ1dE1DVCTHeD4GyFjA&oh=00_Afldk_1UV8iD4MvhWvgehkwsu8u36fNz4hjPuzFCQBW1rw&oe=6943ADA4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
