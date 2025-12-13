@@ -4,7 +4,6 @@ date: 2022-05-20
 categories: School
 tags: [School, Editing, Adobe]
 ---
-#  1-Minute Group Video
 
 <iframe src="https://drive.google.com/file/d/1_hcCqexRAYc1x-ddgLViwLiIqRBrPuKS/preview" width="640" height="480"></iframe>
 

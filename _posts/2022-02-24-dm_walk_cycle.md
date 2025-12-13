@@ -4,7 +4,6 @@ date: 2022-02-24
 categories: School
 tags: [School, Editing, Adobe]
 ---
-#  Walk Cycle
 
 <img
   src="/assets/img/walk_cycle_final.gif"

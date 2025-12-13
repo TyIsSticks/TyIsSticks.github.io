@@ -4,7 +4,6 @@ date: 2022-03-30
 categories: School
 tags: [School, Editing, Adobe]
 ---
-#  12 Second Animation
 
 <img
   src="/assets/img/final-animation_final.gif"
